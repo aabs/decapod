@@ -1,2 +1,3 @@
-# decapod
+# Decapod
+
 Building an RDF Triple Store using the Rust Programming Language
